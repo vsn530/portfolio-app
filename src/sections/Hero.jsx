@@ -50,7 +50,7 @@ export default function Hero() {
         <div className="mx-auto w-full max-w-[400px] rounded-[40px] border border-white/10 bg-white/5 p-6 lg:mx-0">
           <div className="aspect-[4/5] self-end overflow-hidden rounded-[32px] bg-slate-900">
             <img
-              src="src\images\profilepid.jpg"
+              src="/profilepid.jpg"
               alt="Srinivas"
               className="h-full w-full object-cover"
             />
